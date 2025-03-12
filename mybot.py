@@ -3,7 +3,7 @@ from typing import Generator
 from groq import Groq
 
 st.set_page_config(page_icon="💬", layout="wide",
-                   page_title="PragyanAI Groq Streamlit APP")
+                   page_title="Spoorti Udgirkar's chatbot")
 
 st.divider()  # 👈 Draws a horizontal rule
 
