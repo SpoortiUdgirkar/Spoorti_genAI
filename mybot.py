@@ -3,8 +3,8 @@ from typing import Generator
 from groq import Groq
 
 st.set_page_config(page_icon="💬", layout="wide",
-                   page_title="Spoorti Udgirkar's chatbot")
-
+                   page_title="PragyanAI Groq Streamlit APP")
+st.tittle("Spoorti Udgirkar's LLM Based Chatbot")
 st.divider()  # 👈 Draws a horizontal rule
 
 def icon(emoji: str):
